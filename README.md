@@ -2,11 +2,6 @@
 
 **Layered plank puzzler — unscrew what you can reach.**
 
-[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Screw%20Out-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.refaz.screwout)
-
-> Currently in **closed testing** on Google Play. The link above opens the listing;
-> you need to be on the tester list to install.
-
 ---
 
 ## About
@@ -33,10 +28,3 @@ portfolio. A sibling game once shipped completely unplayable because an invisibl
 positioned element sat over the canvas and swallowed every tap, while its entire
 test suite passed. If the only thing the player can touch is the canvas, that
 failure cannot happen.
-
----
-
-## Store listing
-
-- **Google Play:** https://play.google.com/store/apps/details?id=com.refaz.screwout
-- **Tester opt-in:** https://play.google.com/apps/testing/com.refaz.screwout
