@@ -2,6 +2,8 @@
 
 **Layered plank puzzler — unscrew what you can reach.**
 
+**▶️ [Play it live in your browser](https://zfryrgnci.github.io/-Screw-Out/)** — a fully playable layered plank puzzler built with pure HTML5 Canvas. Works on desktop and mobile.
+
 ---
 
 ## About
