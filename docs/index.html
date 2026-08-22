@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="theme-color" content="#7fd0f5">
+<title>Screw Out</title>
+<style>
+  html,body{margin:0;padding:0;height:100%;overflow:hidden;background:#7fd0f5;
+    -webkit-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent;
+    overscroll-behavior:none;touch-action:none}
+  /* One canvas, nothing over it. A previous game shipped unplayable because an
+     invisible positioned element covered the board and ate every tap. */
+  canvas{display:block;position:absolute;inset:0;width:100%;height:100%}
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<script src="core.js"></script>
+<script src="levels.js"></script>
+<script src="game.js"></script>
+</body>
+</html>
